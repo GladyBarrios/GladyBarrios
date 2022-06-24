@@ -6,6 +6,8 @@
 
 🤔 I’m looking for help with anything data science and I am happy to learn 
 
+Pronouns: She/ Her
+
 <!--
 **GladyBarrios/GladyBarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
