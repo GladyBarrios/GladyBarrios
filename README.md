@@ -1,8 +1,8 @@
 
  
-🌱 I’m currently learning Data science with codeup!
+📚 I’m currently learning Data science with codeup!
 
-👯 I’m looking to collaborate on anything Data science 
+👯 I’m looking to collaborate on anything Data Science 
 
 🤔 I’m looking for help with anything data science and I am happy to learn 
 
