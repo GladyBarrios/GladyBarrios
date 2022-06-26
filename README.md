@@ -1,4 +1,7 @@
 
+## Hello everyone!!👋🏽
+
+ My name is Glady Barrios (Glah-dee)
  
 📚 I’m currently learning Data science with codeup!
 
@@ -7,6 +10,12 @@
 🤔 I’m looking for help with anything data science and I am happy to learn 
 
 Pronouns: She/ Her
+
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GladyBarrios)](https://git.io/streak-stats)
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GladyBarrios&layout=compact&theme=cobalt&hide_border=true" />
