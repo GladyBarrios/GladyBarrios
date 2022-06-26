@@ -12,6 +12,8 @@
 Pronouns: She/ Her
 
 
+![](https://img.shields.io/badge/Twitter-@GladyBarrios01-informational?style=flat&logo=<Twitter>&logoColor=Blue&color=2bbc8a)
+ 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GladyBarrios)](https://git.io/streak-stats)
