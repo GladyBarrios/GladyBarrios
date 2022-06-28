@@ -3,7 +3,7 @@
 
  My name is Glady Barrios (Glah-dee)
  
-📚 I’m currently learning Data science with codeup!
+📚 I’m currently learning Data science at Codeup!
 
 👯 I’m looking to collaborate on anything Data Science 
 
