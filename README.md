@@ -3,6 +3,8 @@
 
  My name is Glady Barrios (Glah-dee)
  
+🎓 B.A in Psychology from the University of the Incarate Word 
+
 📚 I’m currently learning Data science at Codeup!
 
 👯 I’m looking to collaborate on anything Data Science 
