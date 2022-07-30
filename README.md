@@ -43,3 +43,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with anything data science I am happy to learn 
 - 😄 Pronouns: She/ Her
 -->
+
+
+
