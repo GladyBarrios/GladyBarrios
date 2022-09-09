@@ -24,6 +24,7 @@ Pronouns: She/ Her
 
 
 
+
 Most Used tools 🛠
 
 [<img src="https://img.shields.io/badge/python-crimson?style=for-the-badge&logo=python&logoColor=pink"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/pandas-darkorange?style=for-the-badge&logo=pandas&logoColor=black" />](https://pandas.pydata.org) [<img src="https://img.shields.io/badge/numpy-yellow?style=for-the-badge&logo=numpy&logoColor=pink" />](https://numpy.org) [<img src="https://img.shields.io/badge/matplotlib-forestgreen?style=for-the-badge&logo=python&logoColor=black"/>](https://matplotlib.org) [<img src="https://img.shields.io/badge/github-deepskyblue?style=for-the-badge&logo=github&logoColor=pink"/>](https://github.com) [<img src="https://img.shields.io/badge/mysql-slateblue?style=for-the-badge&logo=mysql&logoColor=black"/>](https://www.mysql.com) [<img src="https://img.shields.io/badge/jupyternbk-indigo?style=for-the-badge&logo=Jupyter&logoColor=pink"/>](https://jupyter.org) <img src="https://img.shields.io/badge/sklearn-f7931e?&style=for-the-badge&logo=scikit-learn&logoColor=black" /> 
