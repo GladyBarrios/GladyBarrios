@@ -40,6 +40,8 @@ Most Used tools 🛠
 
 
 
+
+
 ![](https://img.shields.io/badge/Twitter-@GladyBarrios01-informational?style=flat&logo=<#1DA1F2>&logoColor=Blue&color=2bbc8a)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GladyBarrios&label=Profile%20views&color=0e75b6&style=flat" alt="GladyBarrios" /> </p>
