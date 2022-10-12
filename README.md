@@ -5,7 +5,7 @@
  
 🎓 B.A in Psychology from the University of the Incarnate Word 
 
-📚 I’m currently learning Data science at Codeup!
+📚 Codeup Data Science Alum!
 
 👯 I’m looking to collaborate on anything Data Science 
 
