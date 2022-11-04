@@ -47,7 +47,7 @@ Most Used tools 🛠
 
 
 
- 
+   
  
  
 ![](https://img.shields.io/badge/Twitter-@GladyBarrios01-informational?style=flat&logo=<#1DA1F2>&logoColor=Blue&color=2bbc8a)
