@@ -12,7 +12,7 @@
 🤔 I’m looking for help with anything data science and I am happy to learn 
 
 Pronouns: She/ Her
-
+   
              
       
    
