@@ -3,11 +3,12 @@
 
  My name is Glady Barrios (Glah-dee)
  
-🎓 B.A in Psychology from the University of the Incarnate Word 
+🎓 B.A in Psychology from the University of the Incarnate Word
+Currently Studying Data Science at Arizona State University!
 
 📚 Codeup Data Science Alum!
 
-👯 I’m looking to collaborate on anything Data Science 
+👯 I’m looking to collaborate on anything Data Science, Data Analytics, Python, PowerBi, Machine Learning
 
 🤔 I’m looking for help with anything data science and I am happy to learn 
 
