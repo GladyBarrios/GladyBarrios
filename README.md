@@ -1,7 +1,7 @@
 
 ## Hello everyone!!👋🏽
 
- My name is Glady Barrios (Glah-dee)
+ My name is Glady Barrios (Glah-dee) 
   
 🎓 B.A in Psychology from the University of the Incarnate Word
 Currently Studying Data Science at Arizona State University!
